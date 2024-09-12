@@ -15,13 +15,17 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<!-- Social Media Links -->
+<h3 align="left" style="margin-top: 30px;">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/>
+  <a href="https://linkedin.com/in/prashantparshuramkar" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="40" height="40"/>
+  <a href="https://instagram.com/prashantkparshuramkar" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/prashantpkp" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
