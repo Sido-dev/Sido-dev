@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://github.com/Sido-dev?tab=repositories)
+[![MasterHead](https://thumbs.dreamstime.com/z/programmer-typogra…ipt-education-technology-flat-229675257.jpg?w=992)](https://github.com/Sido-dev?tab=repositories)
 <h1 align="center">Hey 👋, I'm Sudhanshu Vijay Narayane</h1>
 <h3 align="center">A Passionate Developer & Lifelong Learner from India 🚀</h3>
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
