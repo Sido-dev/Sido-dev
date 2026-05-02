@@ -78,12 +78,25 @@
 - Exploring scalable and cloud-based data solutions  
 
 ---
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sido-dev&show_icons=true&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=sido-dev&show_icons=true" />
 </p>
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=sido-dev&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+## 📈 Contribution Activity
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sido-dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
 <h3 align="center">"Building intelligent systems powered by data and driven by curiosity." 🚀</h3>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling"/>
+</div>
