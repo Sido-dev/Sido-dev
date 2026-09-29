@@ -12,11 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sudhanshunarayane@gmail.com"><strong>Email me</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Sido-dev?tab=repositories"><strong>Explore my repositories</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Sido-dev/intel-image-classification-fastapi"><strong>Featured AI project</strong></a>
+  <img src="https://komarev.com/ghpvc/?username=Sido-dev&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -46,9 +42,9 @@ sudhanshu = {
 }
 ```
 
-## Selected work
+## Featured AI, ML & Data Projects
 
-> **From model to application:** explore my image classifier for applied deep learning, Mahakhanij for end-to-end development, and RFM analysis for business-focused analytics.
+> A selection of projects demonstrating practical expertise in machine learning, data analytics, and end-to-end software development.
 
 
 | Project | What I built / explored | Tools |
@@ -60,7 +56,7 @@ sudhanshu = {
 | **[Vehicle Insurance Analysis](https://github.com/Sido-dev/Data-Analytics-Projects/tree/main/vehicle-insurance-analysis)** | Exploratory analysis and a dashboard for understanding vehicle insurance data. | Python · Pandas · Power BI |
 | **[Moodify Travel](https://github.com/Sido-dev/Moodify-Travel)** | A collaborative travel-planning project exploring sentiment-based recommendations, accompanied by a research publication. | React · Node.js · MongoDB · Sentiment analysis |
 
-**Also built:** [DS–GenAI Learning Tracker](https://github.com/Sido-dev/Data-Science) — a React and FastAPI application for managing a structured learning roadmap, daily progress, and notes.
+> **Also built:** [DS–GenAI Learning Tracker](https://github.com/Sido-dev/Data-Science) — a React and FastAPI application for managing a structured learning roadmap, daily progress, and notes.
 
 ## My toolkit
 
@@ -124,7 +120,7 @@ sudhanshu = {
 
 </details>
 
-[View my GitHub contribution calendar](https://github.com/Sido-dev?tab=overview) · [Explore all repositories](https://github.com/Sido-dev?tab=repositories)
+
 
 ## Education & milestones
 
